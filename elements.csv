@@ -1,0 +1,119 @@
+Symbol,Name,AtomicNumber,Period,Group,Type,Electronegativity,AtomicRadius_pm,IonizationEnergy_kJmol,ElectronAffinity_kJmol,MeltingPoint_K,BoilingPoint_K,Density_gcm3,ElectronConfig,Discoverer,YearDiscovered
+H,Hydrogen,1,1,1,Nonmetal,2.2,53,1312,73,14,20,9.00E-05,1s1,Cavendish,1766
+He,Helium,2,1,18,Noble Gas,,31,2372,0,1,4,0.00018,1s2,Janssen,1868
+Li,Lithium,3,2,1,Alkali Metal,0.98,167,520,60,454,1615,0.534,[He] 2s1,Arfwedson,1817
+Be,Beryllium,4,2,2,Alkaline Earth,1.57,112,899,0,1560,2742,1.85,[He] 2s2,Vauquelin,1798
+B,Boron,5,2,13,Metalloid,2.04,87,800,27,2349,4200,2.34,[He] 2s2 2p1,Gay-Lussac,1808
+C,Carbon,6,2,14,Nonmetal,2.55,77,1086,122,3823,4098,2.267,[He] 2s2 2p2,Ancient,Ancient
+N,Nitrogen,7,2,15,Nonmetal,3.04,75,1402,-7,63,77,0.0013,[He] 2s2 2p3,Rutherford,1772
+O,Oxygen,8,2,16,Nonmetal,3.44,73,1314,141,54,90,0.00143,[He] 2s2 2p4,Priestley,1774
+F,Fluorine,9,2,17,Halogen,3.98,64,1681,328,54,85,0.0017,[He] 2s2 2p5,Moissan,1886
+Ne,Neon,10,2,18,Noble Gas,,38,2081,0,25,27,0.0009,[He] 2s2 2p6,Ramsay,1898
+Na,Sodium,11,3,1,Alkali Metal,0.93,186,496,53,371,1156,0.968,[Ne] 3s1,Davy,1807
+Mg,Magnesium,12,3,2,Alkaline Earth,1.31,160,738,0,923,1363,1.738,[Ne] 3s2,Black,1755
+Al,Aluminium,13,3,13,Post-transition,1.61,143,577,42,933,2792,2.7,[Ne] 3s2 3p1,Oersted,1825
+Si,Silicon,14,3,14,Metalloid,1.9,117,786,134,1687,3538,2.329,[Ne] 3s2 3p2,Berzelius,1824
+P,Phosphorus,15,3,15,Nonmetal,2.19,115,1012,72,317,550,1.82,[Ne] 3s2 3p3,Brandt,1669
+S,Sulfur,16,3,16,Nonmetal,2.58,104,1000,200,388,718,2.067,[Ne] 3s2 3p4,Ancient,Ancient
+Cl,Chlorine,17,3,17,Halogen,3.16,99,1251,349,172,239,0.003,[Ne] 3s2 3p5,Scheele,1774
+Ar,Argon,18,3,18,Noble Gas,,71,1521,0,84,87,0.00178,[Ne] 3s2 3p6,Rayleigh,1894
+K,Potassium,19,4,1,Alkali Metal,0.82,227,419,48,337,1032,0.862,[Ar] 4s1,Davy,1807
+Ca,Calcium,20,4,2,Alkaline Earth,1,197,590,2,1115,1757,1.54,[Ar] 4s2,Davy,1808
+Sc,Scandium,21,4,3,Transition Metal,1.36,162,633,18,1814,3109,2.985,[Ar] 3d1 4s2,Nilson,1879
+Ti,Titanium,22,4,4,Transition Metal,1.54,147,659,8,1941,3560,4.507,[Ar] 3d2 4s2,Gregor,1791
+V,Vanadium,23,4,5,Transition Metal,1.63,134,651,51,2183,3680,6.11,[Ar] 3d3 4s2,Del Rio,1801
+Cr,Chromium,24,4,6,Transition Metal,1.66,128,653,65,2180,2944,7.15,[Ar] 3d5 4s1,Vauquelin,1798
+Mn,Manganese,25,4,7,Transition Metal,1.55,127,717,-50,1519,2334,7.21,[Ar] 3d5 4s2,Gahn,1774
+Fe,Iron,26,4,8,Transition Metal,1.83,126,762,16,1811,3134,7.874,[Ar] 3d6 4s2,Ancient,Ancient
+Co,Cobalt,27,4,9,Transition Metal,1.88,125,760,64,1768,3200,8.9,[Ar] 3d7 4s2,Brandt,1735
+Ni,Nickel,28,4,10,Transition Metal,1.91,124,737,112,1728,3186,8.908,[Ar] 3d8 4s2,Cronstedt,1751
+Cu,Copper,29,4,11,Transition Metal,1.9,128,745,119,1358,2835,8.96,[Ar] 3d10 4s1,Ancient,Ancient
+Zn,Zinc,30,4,12,Transition Metal,1.65,122,906,0,693,1180,7.134,[Ar] 3d10 4s2,Ancient,Ancient
+Ga,Gallium,31,4,13,Post-transition,1.81,122,579,29,303,2477,5.91,[Ar] 3d10 4s2 4p1,Lecoq,1875
+Ge,Germanium,32,4,14,Metalloid,2.01,122,762,119,1211,3106,5.323,[Ar] 3d10 4s2 4p2,Winkler,1886
+As,Arsenic,33,4,15,Metalloid,2.18,119,944,78,1090,887,5.727,[Ar] 3d10 4s2 4p3,Ancient,Ancient
+Se,Selenium,34,4,16,Nonmetal,2.55,116,941,195,494,958,4.81,[Ar] 3d10 4s2 4p4,Berzelius,1817
+Br,Bromine,35,4,17,Halogen,2.96,114,1140,325,266,332,3.12,[Ar] 3d10 4s2 4p5,Balard,1826
+Kr,Krypton,36,4,18,Noble Gas,3,88,1351,0,116,120,0.00375,[Ar] 3d10 4s2 4p6,Ramsay,1898
+Rb,Rubidium,37,5,1,Alkali Metal,0.82,248,403,47,312,961,1.532,[Kr] 5s1,Bunsen,1861
+Sr,Strontium,38,5,2,Alkaline Earth,0.95,215,550,5,1050,1655,2.64,[Kr] 5s2,Crawford,1790
+Y,Yttrium,39,5,3,Transition Metal,1.22,180,600,30,1799,3609,4.472,[Kr] 4d1 5s2,Gadolin,1794
+Zr,Zirconium,40,5,4,Transition Metal,1.33,160,640,41,2128,4682,6.52,[Kr] 4d2 5s2,Klaproth,1789
+Nb,Niobium,41,5,5,Transition Metal,1.6,146,652,86,2750,5017,8.57,[Kr] 4d4 5s1,Hatchett,1801
+Mo,Molybdenum,42,5,6,Transition Metal,2.16,139,684,72,2896,4912,10.28,[Kr] 4d5 5s1,Scheele,1778
+Tc,Technetium,43,5,7,Transition Metal,1.9,136,702,53,2430,4538,11,[Kr] 4d5 5s2,Perrier,1937
+Ru,Ruthenium,44,5,8,Transition Metal,2.2,134,710,101,2607,4423,12.45,[Kr] 4d7 5s1,Klaus,1844
+Rh,Rhodium,45,5,9,Transition Metal,2.28,134,720,110,2237,3968,12.41,[Kr] 4d8 5s1,Wollaston,1804
+Pd,Palladium,46,5,10,Transition Metal,2.2,137,805,54,1828,3236,12.023,[Kr] 4d10,Wollaston,1803
+Ag,Silver,47,5,11,Transition Metal,1.93,144,731,126,1235,2435,10.49,[Kr] 4d10 5s1,Ancient,Ancient
+Cd,Cadmium,48,5,12,Transition Metal,1.69,151,868,0,594,1040,8.65,[Kr] 4d10 5s2,Stromeyer,1817
+In,Indium,49,5,13,Post-transition,1.78,167,558,29,430,2345,7.31,[Kr] 4d10 5s2 5p1,Reich,1863
+Sn,Tin,50,5,14,Post-transition,1.96,140,709,107,505,2875,7.265,[Kr] 4d10 5s2 5p2,Ancient,Ancient
+Sb,Antimony,51,5,15,Metalloid,2.05,140,834,101,904,1860,6.697,[Kr] 4d10 5s2 5p3,Ancient,Ancient
+Te,Tellurium,52,5,16,Metalloid,2.1,137,869,190,723,1261,6.24,[Kr] 4d10 5s2 5p4,Reichenstein,1782
+I,Iodine,53,5,17,Halogen,2.66,133,1008,295,387,457,4.933,[Kr] 4d10 5s2 5p5,Courtois,1811
+Xe,Xenon,54,5,18,Noble Gas,2.6,108,1170,0,161,165,0.00589,[Kr] 4d10 5s2 5p6,Ramsay,1898
+Cs,Caesium,55,6,1,Alkali Metal,0.79,265,376,46,302,944,1.873,[Xe] 6s1,Bunsen,1860
+Ba,Barium,56,6,2,Alkaline Earth,0.89,222,503,14,1000,2170,3.594,[Xe] 6s2,Davy,1808
+La,Lanthanum,57,6,3,Lanthanide,1.1,187,538,48,1193,3737,6.162,[Xe] 5d1 6s2,Mosander,1839
+Ce,Cerium,58,6,3,Lanthanide,1.12,181,534,50,1068,3716,6.77,[Xe] 4f1 5d1 6s2,Berzelius,1803
+Pr,Praseodymium,59,6,3,Lanthanide,1.13,182,527,50,1208,3793,6.77,[Xe] 4f3 6s2,Auer,1885
+Nd,Neodymium,60,6,3,Lanthanide,1.14,181,533,50,1297,3347,7.01,[Xe] 4f4 6s2,Auer,1885
+Pm,Promethium,61,6,3,Lanthanide,1.13,183,540,50,1315,3273,7.26,[Xe] 4f5 6s2,Marinsky,1945
+Sm,Samarium,62,6,3,Lanthanide,1.17,180,545,50,1345,2067,7.52,[Xe] 4f6 6s2,Boisbaudran,1879
+Eu,Europium,63,6,3,Lanthanide,1.2,180,547,50,1099,1802,5.244,[Xe] 4f7 6s2,Demarcay,1901
+Gd,Gadolinium,64,6,3,Lanthanide,1.2,180,593,50,1585,3546,7.9,[Xe] 4f7 5d1 6s2,Marignac,1880
+Tb,Terbium,65,6,3,Lanthanide,1.1,177,566,50,1629,3503,8.23,[Xe] 4f9 6s2,Mosander,1843
+Dy,Dysprosium,66,6,3,Lanthanide,1.22,178,573,50,1680,2840,8.54,[Xe] 4f10 6s2,Boisbaudran,1886
+Ho,Holmium,67,6,3,Lanthanide,1.23,176,581,50,1734,2993,8.79,[Xe] 4f11 6s2,Cleve,1878
+Er,Erbium,68,6,3,Lanthanide,1.24,176,589,50,1802,3141,9.066,[Xe] 4f12 6s2,Mosander,1843
+Tm,Thulium,69,6,3,Lanthanide,1.25,176,597,50,1818,2223,9.32,[Xe] 4f13 6s2,Cleve,1879
+Yb,Ytterbium,70,6,3,Lanthanide,1.1,176,603,50,1097,1469,6.9,[Xe] 4f14 6s2,Marignac,1878
+Lu,Lutetium,71,6,3,Lanthanide,1.27,174,524,50,1925,3675,9.841,[Xe] 4f14 5d1 6s2,Urbain,1907
+Hf,Hafnium,72,6,4,Transition Metal,1.3,159,659,0,2506,4876,13.31,[Xe] 4f14 5d2 6s2,Coster,1923
+Ta,Tantalum,73,6,5,Transition Metal,1.5,146,761,31,3290,5731,16.69,[Xe] 4f14 5d3 6s2,Ekeberg,1802
+W,Tungsten,74,6,6,Transition Metal,2.36,139,770,79,3695,5828,19.25,[Xe] 4f14 5d4 6s2,Scheele,1781
+Re,Rhenium,75,6,7,Transition Metal,1.9,137,760,15,3459,5869,21.02,[Xe] 4f14 5d5 6s2,Noddack,1925
+Os,Osmium,76,6,8,Transition Metal,2.2,135,840,106,3306,5285,22.59,[Xe] 4f14 5d6 6s2,Tennant,1803
+Ir,Iridium,77,6,9,Transition Metal,2.2,136,880,151,2719,4701,22.56,[Xe] 4f14 5d7 6s2,Tennant,1803
+Pt,Platinum,78,6,10,Transition Metal,2.28,139,870,205,2041,4098,21.45,[Xe] 4f14 5d9 6s1,Ulloa,1735
+Au,Gold,79,6,11,Transition Metal,2.54,144,890,223,1337,3129,19.3,[Xe] 4f14 5d10 6s1,Ancient,Ancient
+Hg,Mercury,80,6,12,Transition Metal,2,151,1007,0,234,630,13.534,[Xe] 4f14 5d10 6s2,Ancient,Ancient
+Tl,Thallium,81,6,13,Post-transition,1.62,170,589,19,577,1746,11.85,[Xe] 4f14 5d10 6s2 6p1,Crookes,1861
+Pb,Lead,82,6,14,Post-transition,2.33,175,716,35,601,2022,11.34,[Xe] 4f14 5d10 6s2 6p2,Ancient,Ancient
+Bi,Bismuth,83,6,15,Post-transition,2.02,170,703,91,544,1837,9.78,[Xe] 4f14 5d10 6s2 6p3,Ancient,Ancient
+Po,Polonium,84,6,16,Post-transition,2,168,812,183,527,1235,9.196,[Xe] 4f14 5d10 6s2 6p4,Curie,1898
+At,Astatine,85,6,17,Halogen,2.2,127,920,270,575,610,7,[Xe] 4f14 5d10 6s2 6p5,Corson,1940
+Rn,Radon,86,6,18,Noble Gas,,120,1037,0,202,211,0.00973,[Xe] 4f14 5d10 6s2 6p6,Dorn,1900
+Fr,Francium,87,7,1,Alkali Metal,0.7,280,380,44,300,950,1.87,[Rn] 7s1,Perey,1939
+Ra,Radium,88,7,2,Alkaline Earth,0.9,233,509,10,973,2010,5.5,[Rn] 7s2,Curie,1898
+Ac,Actinium,89,7,3,Actinide,1.1,215,499,0,1323,3471,10.07,[Rn] 6d1 7s2,Debierne,1899
+Th,Thorium,90,7,3,Actinide,1.3,206,587,0,2115,5061,11.72,[Rn] 6d2 7s2,Berzelius,1829
+Pa,Protactinium,91,7,3,Actinide,1.5,200,568,0,1841,4300,15.37,[Rn] 5f2 6d1 7s2,Hahn,1917
+U,Uranium,92,7,3,Actinide,1.38,196,598,0,1405,4404,19.05,[Rn] 5f3 6d1 7s2,Klaproth,1789
+Np,Neptunium,93,7,3,Actinide,1.36,190,605,0,917,4175,20.45,[Rn] 5f4 6d1 7s2,McMillan,1940
+Pu,Plutonium,94,7,3,Actinide,1.28,187,585,0,913,3501,19.816,[Rn] 5f6 7s2,Seaborg,1940
+Am,Americium,95,7,3,Actinide,1.3,180,578,0,1449,2880,13.67,[Rn] 5f7 7s2,Seaborg,1944
+Cm,Curium,96,7,3,Actinide,1.3,169,581,0,1613,3383,13.51,[Rn] 5f7 6d1 7s2,Seaborg,1944
+Bk,Berkelium,97,7,3,Actinide,1.3,168,601,0,1259,2900,14.78,[Rn] 5f9 7s2,Seaborg,1949
+Cf,Californium,98,7,3,Actinide,1.3,168,608,0,1173,1743,15.1,[Rn] 5f10 7s2,Seaborg,1950
+Es,Einsteinium,99,7,3,Actinide,1.3,165,619,0,1133,1269,8.84,[Rn] 5f11 7s2,Ghiorso,1952
+Fm,Fermium,100,7,3,Actinide,1.3,167,627,0,1800,,,[Rn] 5f12 7s2,Ghiorso,1952
+Md,Mendelevium,101,7,3,Actinide,1.3,173,635,0,1100,,,[Rn] 5f13 7s2,Ghiorso,1955
+No,Nobelium,102,7,3,Actinide,1.3,176,642,0,1100,,,[Rn] 5f14 7s2,Ghiorso,1958
+Lr,Lawrencium,103,7,3,Actinide,1.3,161,479,0,1900,,,[Rn] 5f14 7p1,Ghiorso,1961
+Rf,Rutherfordium,104,7,4,Transition Metal,,,,,,,,[Rn] 5f14 6d2 7s2,Flerov,1969
+Db,Dubnium,105,7,5,Transition Metal,,,,,,,,[Rn] 5f14 6d3 7s2,Flerov,1970
+Sg,Seaborgium,106,7,6,Transition Metal,,,,,,,,[Rn] 5f14 6d4 7s2,Ghiorso,1974
+Bh,Bohrium,107,7,7,Transition Metal,,,,,,,,[Rn] 5f14 6d5 7s2,Armbruster,1981
+Hs,Hassium,108,7,8,Transition Metal,,,,,,,,[Rn] 5f14 6d6 7s2,Armbruster,1984
+Mt,Meitnerium,109,7,9,Transition Metal,,,,,,,,[Rn] 5f14 6d7 7s2,Armbruster,1982
+Ds,Darmstadtium,110,7,10,Transition Metal,,,,,,,,[Rn] 5f14 6d8 7s2,Hofmann,1994
+Rg,Roentgenium,111,7,11,Transition Metal,,,,,,,,[Rn] 5f14 6d9 7s2,Hofmann,1994
+Cn,Copernicium,112,7,12,Transition Metal,,,,,,,,[Rn] 5f14 6d10 7s2,Hofmann,1996
+Nh,Nihonium,113,7,13,Post-transition,,,,,,,,Unknown,Unknown,2004
+Fl,Flerovium,114,7,14,Post-transition,,,,,,,,Unknown,Oganessian,1999
+Mc,Moscovium,115,7,15,Post-transition,,,,,,,,Unknown,Oganessian,2003
+Lv,Livermorium,116,7,16,Post-transition,,,,,,,,Unknown,Oganessian,2000
+Ts,Tennessine,117,7,17,Halogen,,,,,,,,Unknown,Oganessian,2010
+Og,Oganesson,118,7,18,Noble Gas,,,,,,,,Unknown,Oganessian,2002
